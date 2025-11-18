@@ -12,5 +12,8 @@
     "course"
   ],
   "author": "Mayuresh Shekdar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
 }
